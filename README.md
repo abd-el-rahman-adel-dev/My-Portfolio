@@ -3,8 +3,8 @@
 This is my personal portfolio website built with HTML, CSS, and JavaScript.  
 It showcases my work, skills, and contact details in a clean and responsive layout.
 
-🔗 **Live Website:** [My Portfolio](https://abd-el-rahman-adel-dev.github.io/My-Portfolio/)  
-📁 **GitHub Repo:** [My-Portfolio Repository](https://github.com/abd-el-rahman-adel-dev/My-Portfolio)
+🔗 **Live Website:** [My Portfolio](https://codebyabdo.github.io/My-Portfolio/)  
+📁 **GitHub Repo:** [My-Portfolio Repository](https://github.com/codebyabdo/My-Portfolio)
 
 ---
 
@@ -70,8 +70,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
